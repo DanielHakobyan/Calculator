@@ -1,0 +1,130 @@
+button {
+    height: 30px;
+    width: 60px;
+    display: inline-block;
+    background-color: #2C2C2B;
+    padding: 20px;
+    color: white;
+    border-radius: 50px;
+  }
+  p{
+    background-color: black;
+    border: solid black;
+    color: white;
+    position: relative;
+    text-align: center;
+    top: -100px;
+    border-radius: 10px;
+  }
+  *{
+    /*background-color: #2C2C2B;*/
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    top: 80px;
+  }
+#num7{
+    position: relative;
+    left: 285px;
+    top: 44px
+}
+#num8{
+    position: relative;
+    left: 285px;
+    top: 44px;
+}
+#num9{
+    position: relative;
+    left: 285px;
+    top: 44px;
+}
+#num4{
+    position: relative;
+    left: 478px;
+    top: 90px;
+}
+#num5{
+    position: relative;
+    left: 478px;
+    top: 90px;
+}
+#num6{
+    position: relative;
+    left: 478px;
+    top: 90px;
+}
+#num1{
+    position: relative;
+    left: 670px;
+    top: 135px;
+}
+#num2{
+    position: relative;
+    left: 670px;
+    top: 135px;
+}
+#num3{
+    position: relative;
+    left: 670px;
+    top: 135px;
+}
+#num0{
+    position: relative;
+    left: 158px;
+    top: 180px;
+}
+#operatorPlus{
+    position: relative;
+    left: 222px;
+    top: 90px;
+    background-color: orange;
+}
+#operatorMinus{
+    position: relative;
+    left: 158px;
+    top: 45px;
+    background-color: orange;
+}
+#operatorDivide{
+    position: relative;
+    left: 30px;
+    top: 0px;
+    background-color: orange;
+}
+#operatorEqual{
+    position: relative;
+    right: 33px;
+    top: 180px;
+    background-color: orange;
+}
+#operatorMultiply{
+    position: relative;
+    left: 95px;
+    top: 135px;
+    background-color: orange;
+}
+#openBracket{
+    position: relative;
+    right: 291px;
+    top: 0px;
+    background-color: orange;
+}
+#closeBracket{
+    position: relative;
+    right: 291px;
+    top: 0px;
+    background-color: orange;
+}
+#dot{
+    position: relative;
+    top: 180px;
+    right: 290px;
+    background-color: orange;
+}
+#clearAll{
+    position: relative;
+    top: 180px;
+    right: 520px;
+    width: 100px;
+    background-color: red;
+}
